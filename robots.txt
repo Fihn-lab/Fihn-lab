@@ -1,1 +1,1 @@
-Sitemap: https://fihn-lab.github.io/Fihn-lab-website/sitemap.xml
+Sitemap: https://fihn-lab.github.io/Fihn-lab/sitemap.xml
