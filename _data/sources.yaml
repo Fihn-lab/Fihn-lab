@@ -1,23 +1,68 @@
-- id: doi:10.1371/journal.pcbi.1007128
+# Publications missing from ORCID auto-import
+
+- id: doi:10.1016/j.bioorg.2024.107840
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  image: /images/papers/Bioorganic_Chemistry2024.jpg
+  description: >
+    Structure-activity relationship study of 2-aminobenzothiazole
+    histidine kinase inhibitors and antivirulence compounds against
+    Pseudomonas aeruginosa.
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - pseudomonas
+    - antivirulence
+    - medicinal chemistry
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1371/journal.ppat.1010307
+  tags:
+    - antibiotic tolerance
+    - microbiology
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1021/bc500200t
+  tags:
+    - bioconjugate chemistry
+    - nanoparticles
+
+# Manual entries for publications without DOI metadata available
+
+- title: Using Untargeted Mass Spectrometry Based Proteomics to Identify Putative Microprotein Biomarkers from Patient Tampons
+  authors:
+    - G. T. Luu
+    - C. A. Fihn
+    - L. M. Sanchez
+  publisher: Methods in Molecular Biology
+  date: 2026-01-01
+  type: paper
+  tags:
+    - proteomics
+    - mass spectrometry
+    - microbiology
+
+- title: Investigation of an ALDH1A1-Specific Inhibitor for Suppression of Weight Gain in a Diet-Induced Mouse Model of Obesity
+  authors:
+    - M. Haenisch
+    - T. Nguyen
+    - C. A. Fihn
+    - A. S. Goldstein
+    - J. K. Amory
+    - P. Treuting
+    - T. Brabb
+    - J. Paik
+  publisher: International Journal of Obesity
+  date: 2021-01-01
+  type: paper
+  tags:
+    - metabolism
+    - obesity biology
+
+- title: Screening Serine/Threonine and Tyrosine Kinase Inhibitors for Histidine Kinase Inhibition
+  authors:
+    - K. E. Wilke
+    - C. A. Fihn
+    - E. E. Carlson
+  publisher: Bioorganic & Medicinal Chemistry
+  date: 2018-01-01
+  type: paper
+  tags:
+    - histidine kinases
+    - kinase inhibitors
+    - chemical biology
