@@ -5,6 +5,6 @@
 
   # Fihn-lab's Website
 
-  Visit **[fihn-lab.github.io/Fihn-lab-website](https://fihn-lab.github.io/Fihn-lab-website)** 🚀
+  Visit **[fihn-lab.github.io/Fihn-lab](https://fihn-lab.github.io/Fihn-lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
