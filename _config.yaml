@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Fihn-lab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: 
+subtitle: Exploring Microbial Communication
+description: We study how pathogenic bacteria communicate using small molecules, focusing on PQS signaling in Pseudomonas aeruginosa. By engineering biosynthetic pathways to generate new PQS analogs and integrating microbiology, chemical biology, and mass spectrometry, we aim to understand and disrupt the signals that control virulence.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,10 +9,10 @@ proofer: false
 # site social media and other links
 links:
   email: contact@Fihn-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  orcid: 0000-0002-9253-1479
+  google-scholar: tLmiPMYAAAAJ
   github: Fihn-lab
-  twitter: Fihn-lab
+  bluesky: cradaf.bsky.social
   youtube: Fihn-lab
 
 ### jekyll settings
