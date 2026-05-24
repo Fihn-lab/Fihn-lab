@@ -1,9 +1,9 @@
 ---
 ---
 
-# Fihn-lab's Website
+# Welcome to the Fihn Lab
 
-An engaging 1-3 sentence description of your lab.
+We study how pathogenic bacteria communicate using small molecules, focusing on PQS signaling in Pseudomonas aeruginosa. By engineering biosynthetic pathways to generate new PQS analogs and integrating microbiology, chemical biology, and mass spectrometry, we aim to understand and disrupt the signals that control virulence.
 
 {% include section.html %}
 
