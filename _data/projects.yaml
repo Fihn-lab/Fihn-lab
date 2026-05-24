@@ -1,16 +1,22 @@
 - title: PQS Analog Biosynthesis
-  subtitle: 
+  subtitle: a subtitle
   group: featured
   image: images/project1.jpg
-  link: 
-  description: Current work in the lab focuses on creating new variants of Pseudomonas Quinolone Signal (PQS), a small molecule used by Pseudomonas aeruginosa to communicate and coordinate group behaviors such as biofilm formation and virulence. By feeding the bacteria modified precursor molecules, we can encourage the production of new PQS analogs with altered structures and potentially altered biological activity.
-
-  New molecules are identified using liquid chromatography–mass spectrometry (LC–MS), and their structures are further studied using fragmentation analysis, purification, and NMR spectroscopy. This work helps us better understand how small changes in signaling molecules affect bacterial communication and behavior.
-
-  Because quorum sensing plays an important role in regulating virulence in P. aeruginosa, developing new PQS analogs may provide new tools for studying bacterial signaling and could eventually help identify compounds capable of reducing harmful bacterial behaviors without directly killing the bacteria. This type of antivirulence approach may help reduce selective pressure for antibiotic resistance while offering new strategies for controlling bacterial infections. 
+  link: https://github.com/
+  description: Current work in the lab focuses on creating new variants of Pseudomonas Quinolone Signal (PQS), a small molecule used by Pseudomonas aeruginosa to communicate and coordinate group behaviors such as biofilm formation and virulence. By feeding the bacteria modified precursor molecules, we can encourage the production of new PQS analogs with altered structures and potentially altered biological activity. New molecules are identified using liquid chromatography–mass spectrometry (LC–MS), and their structures are further studied using fragmentation analysis, purification, and NMR spectroscopy. This work helps us better understand how small changes in signaling molecules affect bacterial communication and behavior. Because quorum sensing plays an important role in regulating virulence in P. aeruginosa, developing new PQS analogs may provide new tools for studying bacterial signaling and could eventually help identify compounds capable of reducing harmful bacterial behaviors without directly killing the bacteria. This type of antivirulence approach may help reduce selective pressure for antibiotic resistance while offering new strategies for controlling bacterial infections. 
   repo: greenelab/lab-website-template
   tags:
-    - Project
+    - resource
+
+- title: Cool Dataset
+  subtitle: a subtitle
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
 
 - title: Cool Package
   subtitle: a subtitle
@@ -21,3 +27,31 @@
   repo: greenelab/lab-website-template
   tags:
     - resource
+
+- title: Cool Tutorial
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
+
+- title: Cool Web App
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+
+- title: Cool Web Server
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
