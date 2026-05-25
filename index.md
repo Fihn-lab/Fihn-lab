@@ -11,7 +11,7 @@ We study how pathogenic bacteria communicate using small molecules, focusing on 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Here you'll find our publications!
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/publication.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Find out what we're working on!
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/quorumsensing.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Come meet the people currently doing working in the Fihn Lab!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team1.jpg"
   link="team"
   title="Our Team"
   text=text
