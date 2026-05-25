@@ -8,7 +8,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 <p align="center">
-  <img src="/Fihn-lab/images/quorumsensing.jpg" width="700">
+  <img src="/Fihn-lab/images/quorumsensing.jpg"
+       style="display:block; margin:0 auto; width:90%; max-width:1000px;">
 </p>
 
 Here you will find what were currently working on in the lab!
