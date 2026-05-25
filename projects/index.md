@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
+<p align="center">
+  <img src="/Fihn-lab/images/quorumsensing.jpg" width="700">
+</p>
+
 Here you will find what were currently working on in the lab!
 
 {% include tags.html tags="publication, resource, website" %}
