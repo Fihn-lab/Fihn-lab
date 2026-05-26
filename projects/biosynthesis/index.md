@@ -5,7 +5,7 @@ title: Engineering New Quorum Sensing Molecules Through Biosynthesis
 # {% include icon.html icon="fa-solid fa-wrench" %}Engineering New Quorum Sensing Molecules Through Biosynthesis
 
 <p align="center">
-  <img src="/Fihn-lab/images/project1.jpg"
+  <img src="/Fihn-lab/images/project1.png"
        style="display:block; margin:0 auto; width:90%; max-width:1000px;">
 </p>
 
