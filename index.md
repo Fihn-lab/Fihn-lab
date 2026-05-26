@@ -15,7 +15,7 @@ Here you'll find our publications!
 
 {%
   include button.html
-  link="research"
+  link="Publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,8 +27,8 @@ Here you'll find our publications!
 {%
   include feature.html
   image="images/publication.jpg"
-  link="research"
-  title="Our Research"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
 
