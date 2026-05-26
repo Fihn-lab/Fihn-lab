@@ -13,7 +13,7 @@ Here you can find publications Professor Fihn and his group.
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Evaluation of expanded 2-aminobenzothiazole library as inhibitors of a model histidine kinase and virulence suppressors in Pseudomonas aeruginosa" style="rich" %}
 
 {% include section.html %}
 
