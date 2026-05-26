@@ -3,13 +3,11 @@
   group: featured
   image: images/project1.png
   link: https://fihn-lab.github.io/Fihn-lab/projects/biosynthesis/
-  description: Current work in the lab focuses on expanding the chemical diversity of Pseudomonas Quinolone Signal (PQS), a small molecule used by Pseudomonas aeruginosa to communicate and coordinate group behaviors such as biofilm formation and virulence. By feeding the bacteria modified precursor molecules, we can encourage the biosynthesis of new PQS analogs with altered structures and potentially altered biological activity. New molecules are identified using liquid chromatography–mass spectrometry (LC–MS), and their structures are further characterized through fragmentation analysis, purification, and NMR spectroscopy. This work explores how bacterial biosynthetic pathways can be redirected to generate entirely new signaling molecules that are not normally produced in nature. Beyond studying PQS itself, this approach provides a broader framework for engineering microbial metabolism to access new chemical space through biosynthesis rather than traditional synthetic chemistry alone. Understanding how structural changes alter signaling activity also helps reveal the molecular features that control bacterial communication, group behavior, and pathogenicity. In the long term, these studies may enable the development of new chemical tools for probing quorum sensing networks and lay the groundwork for antivirulence strategies that disrupt bacterial behavior without directly killing the bacteria, potentially reducing selective pressure for antibiotic resistance. 
-  repo: greenelab/lab-website-template
-  tags:
+  description: Engineering and studying new bacterial signaling molecules to better understand how bacteria communicate and cause disease.
     - resource
 
 - title: Functional Modulation of Quorum Sensing and Virulence
-  subtitle: a subtitle
+  subtitle: 
   group: featured
   image: images/virulence.png
   link: 
@@ -19,11 +17,11 @@
     - resource
 
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: 
+  subtitle: 
   image: images/photo.jpg
   link: 
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 
   repo: greenelab/lab-website-template
   tags:
     - resource
