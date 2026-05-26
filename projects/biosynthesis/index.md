@@ -1,13 +1,8 @@
 ---
-# {% include icon.html icon="fa-solid fa-wrench" %}Engineering New Quorum Sensing Molecules Through Biosynthesis
-
-header: images/background.jpg
-footer: images/background.jpg
-header-dark: false
-footer-dark: false
-redirect_from:
-  - Biosynthesis
+title: Engineering New Quorum Sensing Molecules Through Biosynthesis
 ---
+
+# {% include icon.html icon="fa-solid fa-wrench" %}Engineering New Quorum Sensing Molecules Through Biosynthesis
 
 <p align="center">
   <img src="/Fihn-lab/images/project1.jpg"
