@@ -2,7 +2,7 @@
 title: Join
 description: If you'd like to join the lab click the link below to fill out the google form and I will follow up with you as soon as possible!
 nav:
-  order: 1
+  order: 6
   tooltip: Praise and laurels
 header: images/background.jpg
 footer: images/background.jpg
