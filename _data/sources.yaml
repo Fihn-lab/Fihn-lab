@@ -13,11 +13,13 @@
     - medicinal chemistry
 
 - id: doi:10.1371/journal.ppat.1010307
+  image: /images/carbapenemrilu.PNG
   tags:
     - antibiotic tolerance
     - microbiology
 
 - id: doi:10.1021/bc500200t
+  image: /images/viralnano.jpg
   tags:
     - bioconjugate chemistry
     - nanoparticles
@@ -31,7 +33,8 @@
     - L. M. Sanchez
   publisher: Methods in Molecular Biology
   date: 2026-01-01
-  type: paper
+  type: book chapter
+  image: /images/microproteins.jpg
   tags:
     - proteomics
     - mass spectrometry
@@ -50,6 +53,7 @@
   publisher: International Journal of Obesity
   date: 2021-01-01
   type: paper
+  image: /images/aldh4.jpg
   tags:
     - metabolism
     - obesity biology
@@ -62,6 +66,7 @@
   publisher: Bioorganic & Medicinal Chemistry
   date: 2018-01-01
   type: paper
+  image: /images/EKHK.jpg
   tags:
     - histidine kinases
     - kinase inhibitors
