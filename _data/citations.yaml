@@ -112,6 +112,7 @@
   publisher: PLOS Pathogens
   date: '2022-02-07'
   link: https://doi.org/gtgzzn
+  image: /images/carbapenemrilu.PNG
   tags:
   - antibiotic tolerance
   - microbiology
@@ -134,6 +135,7 @@
   publisher: Bioconjugate Chemistry
   date: '2014-07-10'
   link: https://doi.org/f6d8c9
+  image: /images/viralnano.jpg
   tags:
   - bioconjugate chemistry
   - nanoparticles
@@ -147,7 +149,8 @@
   - L. M. Sanchez
   publisher: Methods in Molecular Biology
   date: '2026-01-01'
-  type: paper
+  type: book chapter
+  image: /images/microproteins.jpg
   tags:
   - proteomics
   - mass spectrometry
@@ -168,6 +171,7 @@
   publisher: International Journal of Obesity
   date: '2021-01-01'
   type: paper
+  image: /images/aldh4.jpg
   tags:
   - metabolism
   - obesity biology
@@ -182,6 +186,7 @@
   publisher: Bioorganic & Medicinal Chemistry
   date: '2018-01-01'
   type: paper
+  image: /images/EKHK.jpg
   tags:
   - histidine kinases
   - kinase inhibitors
