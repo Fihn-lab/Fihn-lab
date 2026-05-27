@@ -1,10 +1,8 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: Starting the lab
+author: Conrad-Fihn
 tags:
-  - biology
-  - medicine
-  - big data
+  - news
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab is getting set up, but reach out if you're intersted in learning about the research!
