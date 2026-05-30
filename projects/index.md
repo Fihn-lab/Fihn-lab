@@ -14,7 +14,7 @@ nav:
 
 Quorum sensing is a form of bacterial communication in which microbes produce and detect small signaling molecules to coordinate group behaviors. At low cell density, signaling molecules are produced but remain too dilute to strongly activate quorum sensing pathways. As the bacterial population grows, these molecules accumulate and eventually reach concentrations high enough to trigger coordinated changes in gene expression across the community. In the opportunistic pathogen *Pseudomonas aeruginosa*, quorum sensing controls processes such as biofilm formation and virulence factor production. Research in the lab focuses on understanding and manipulating these signaling pathways through biosynthesis, chemical biology, and mass spectrometry to better understand microbial communication and identify new antivirulence strategies.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="microbiology, mass spectrometry, chemical biology" %}
 
 {% include search-info.html %}
 
