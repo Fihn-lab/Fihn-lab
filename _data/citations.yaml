@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.xcrp.2025.103092
+  title: A high-throughput biocatalytic platform for screening isomeric kainoid natural
+    products
+  authors:
+  - Robert A. Shepherd
+  - Manasa Ramachandra
+  - Austin R. Hopiavuori
+  - Melanie C. Jones
+  - Conrad A. Fihn
+  - Alex J. Tabag
+  - Ananya Manjunath
+  - Limar Y. Gad
+  - Chloe R. Whipple
+  - Shaun M.K. McKinnie
+  - Laura M. Sanchez
+  publisher: Cell Reports Physical Science
+  date: '2026-02-01'
+  link: https://doi.org/hb55rc
+  orcid: 0000-0002-9253-1479
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1039/D5CC06657C
   title: Development of covalent inhibitors for bacterial histidine kinases
   authors:
@@ -10,6 +31,19 @@
   publisher: Chemical Communications
   date: '2026-01-01'
   link: https://doi.org/hb4mcg
+  orcid: 0000-0002-9253-1479
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-0716-5013-4_20
+  title: Using Untargeted Mass Spectrometry-Based Proteomics to Identify Putative
+    Microprotein Biomarkers from Patient Tampons
+  authors:
+  - Gordon T. Luu
+  - Conrad Fihn
+  - Laura M. Sanchez
+  publisher: Methods in Molecular Biology
+  date: '2025-11-17'
+  link: https://doi.org/hb55rd
   orcid: 0000-0002-9253-1479
   plugin: orcid.py
   file: orcid.yaml
@@ -49,18 +83,6 @@
   orcid: 0000-0002-9253-1479
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.mib.2021.03.007
-  title: Targeting a highly conserved domain in bacterial histidine kinases to generate
-    inhibitors with broad spectrum activity
-  authors:
-  - Conrad A Fihn
-  - Erin E Carlson
-  publisher: Current Opinion in Microbiology
-  date: '2021-06-01'
-  link: https://doi.org/hb4mck
-  orcid: 0000-0002-9253-1479
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.bioorg.2024.107840
   title: Evaluation of expanded 2-aminobenzothiazole library as inhibitors of a model
     histidine kinase and virulence suppressors in Pseudomonas aeruginosa
@@ -84,6 +106,9 @@
   publisher: Bioorganic Chemistry
   date: '2024-12-01'
   link: https://doi.org/hb4mcn
+  orcid: 0000-0002-9253-1479
+  plugin: sources.py
+  file: sources.yaml
   type: paper
   image: /images/publication.jpg
   description: 'Structure-activity relationship study of 2-aminobenzothiazole histidine
@@ -94,8 +119,6 @@
   - pseudomonas
   - antivirulence
   - medicinal chemistry
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1371/journal.ppat.1010307
   title: High-level carbapenem tolerance requires antibiotic-induced outer membrane
     modifications
@@ -112,12 +135,56 @@
   publisher: PLOS Pathogens
   date: '2022-02-07'
   link: https://doi.org/gtgzzn
+  orcid: 0000-0002-9253-1479
+  plugin: sources.py
+  file: sources.yaml
   image: images/carbapenemrilu.PNG
   tags:
   - antibiotic tolerance
   - microbiology
-  plugin: sources.py
-  file: sources.yaml
+- id: doi:10.1038/s41366-021-00818-1
+  title: Investigation of an ALDH1A1-specific inhibitor for suppression of weight
+    gain in a diet-induced mouse model of obesity
+  authors:
+  - Michael Haenisch
+  - Tai Nguyen
+  - Conrad A. Fihn
+  - Alex S. Goldstein
+  - John K. Amory
+  - Piper Treuting
+  - Thea Brabb
+  - Jisun Paik
+  publisher: International Journal of Obesity
+  date: '2021-05-01'
+  link: https://doi.org/hb55rf
+  orcid: 0000-0002-9253-1479
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mib.2021.03.007
+  title: Targeting a highly conserved domain in bacterial histidine kinases to generate
+    inhibitors with broad spectrum activity
+  authors:
+  - Conrad A Fihn
+  - Erin E Carlson
+  publisher: Current Opinion in Microbiology
+  date: '2021-06-01'
+  link: https://doi.org/hb4mck
+  orcid: 0000-0002-9253-1479
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bmc.2018.04.047
+  title: Screening serine/threonine and tyrosine kinase inhibitors for histidine kinase
+    inhibition
+  authors:
+  - Kaelyn E. Wilke
+  - Conrad A. Fihn
+  - Erin E. Carlson
+  publisher: Bioorganic &amp; Medicinal Chemistry
+  date: '2018-10-01'
+  link: https://doi.org/gfnpnx
+  orcid: 0000-0002-9253-1479
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/bc500200t
   title: Directed Polyvalent Display of Sulfated Ligands on Virus Nanoparticles Elicits
     Heparin-Like Anticoagulant Activity
@@ -135,12 +202,13 @@
   publisher: Bioconjugate Chemistry
   date: '2014-07-10'
   link: https://doi.org/f6d8c9
+  orcid: 0000-0002-9253-1479
+  plugin: sources.py
+  file: sources.yaml
   image: /images/viralnano.jpg
   tags:
   - bioconjugate chemistry
   - nanoparticles
-  plugin: sources.py
-  file: sources.yaml
 - title: Using Untargeted Mass Spectrometry Based Proteomics to Identify Putative
     Microprotein Biomarkers from Patient Tampons
   authors:
