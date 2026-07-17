@@ -12,7 +12,7 @@ Things are getting set up, but for now reach out by email if you have any questi
 {%
   include button.html
   type="email"
-  text="CFihn@bates.edu"
+  text="cfihn@bates.edu"
   link="CFihn@bates.edu"
 %}
 {%
