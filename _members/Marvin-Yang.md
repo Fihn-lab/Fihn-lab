@@ -1,7 +1,7 @@
 ---
 name: Marvin Yang
 image: images/bates.png
-role: Undergrad-researcher
+role: undergrad
 affiliation: Bates College
 aliases:
   
