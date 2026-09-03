@@ -1,7 +1,7 @@
 ---
 name: Prospective Member
 image: images/bates.png
-role: prospective student
+role: prospective
 group: prospective
 links: https://fihn-lab.github.io/Fihn-lab/join/
 ---
