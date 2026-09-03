@@ -10,13 +10,13 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+thesis:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Thesis Student Researcher
 
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Undergraduate Researcher
 
 programmer:
   icon: fa-solid fa-code
