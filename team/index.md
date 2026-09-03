@@ -12,9 +12,10 @@ Come meet all the current members of the Fihn lab.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role == 'thesis'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+{% include list.html data="members" component="portrait" filter="role == 'mascot'" %}
+{% include list.html data="members" component="portrait" filter="role == 'prospective'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
