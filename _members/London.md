@@ -1,7 +1,7 @@
 ---
 name: London Fihn
 image: images/london.jpg
-role: lab-mascot
+role: mascot
 affiliation: 
 aliases:
   - Londy
