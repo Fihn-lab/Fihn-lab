@@ -1,7 +1,7 @@
 ---
 name: Sarah Friedlander
 image: images/bates.png
-role: Thesis-Student-researcher
+role: thesis
 affiliation: Bates College
 aliases:
   
