@@ -1,6 +1,6 @@
 ---
 name: Anna Kurianova
-image: images/bates.png
+image: images/Anna_K.png
 role: thesis
 affiliation: Bates College
 aliases:
